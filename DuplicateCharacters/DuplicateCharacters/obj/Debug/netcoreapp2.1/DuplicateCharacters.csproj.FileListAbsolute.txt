@@ -1,0 +1,11 @@
+D:\My Development\New Work\DuplicateCharacters\DuplicateCharacters\bin\Debug\netcoreapp2.1\DuplicateCharacters.deps.json
+D:\My Development\New Work\DuplicateCharacters\DuplicateCharacters\bin\Debug\netcoreapp2.1\DuplicateCharacters.runtimeconfig.json
+D:\My Development\New Work\DuplicateCharacters\DuplicateCharacters\bin\Debug\netcoreapp2.1\DuplicateCharacters.runtimeconfig.dev.json
+D:\My Development\New Work\DuplicateCharacters\DuplicateCharacters\bin\Debug\netcoreapp2.1\DuplicateCharacters.dll
+D:\My Development\New Work\DuplicateCharacters\DuplicateCharacters\bin\Debug\netcoreapp2.1\DuplicateCharacters.pdb
+D:\My Development\New Work\DuplicateCharacters\DuplicateCharacters\obj\Debug\netcoreapp2.1\DuplicateCharacters.csprojAssemblyReference.cache
+D:\My Development\New Work\DuplicateCharacters\DuplicateCharacters\obj\Debug\netcoreapp2.1\DuplicateCharacters.csproj.CoreCompileInputs.cache
+D:\My Development\New Work\DuplicateCharacters\DuplicateCharacters\obj\Debug\netcoreapp2.1\DuplicateCharacters.AssemblyInfoInputs.cache
+D:\My Development\New Work\DuplicateCharacters\DuplicateCharacters\obj\Debug\netcoreapp2.1\DuplicateCharacters.AssemblyInfo.cs
+D:\My Development\New Work\DuplicateCharacters\DuplicateCharacters\obj\Debug\netcoreapp2.1\DuplicateCharacters.dll
+D:\My Development\New Work\DuplicateCharacters\DuplicateCharacters\obj\Debug\netcoreapp2.1\DuplicateCharacters.pdb
